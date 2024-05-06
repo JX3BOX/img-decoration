@@ -1,4 +1,13 @@
 {
+	"2024jdt8": {
+		"year": 2024,
+		"prefix": "第八届秘境百强榜",
+		"ranking": [],
+		"suffix": "团队成员",
+        "only": false,
+		"color": "#fff",
+		"ext": "png"
+	},
 	"2023jdt7": {
 		"year": 2023,
 		"prefix": "第七届秘境百强榜",
