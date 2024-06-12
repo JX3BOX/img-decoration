@@ -18,5 +18,15 @@
         "titleColor": "#884246",
         "titleHoverColor": "rgba(255, 64, 128, 1)",
         "borderHoverColor": "#884246"
+    },
+    "zhutou": {
+        "titleColor": "#682907",
+        "titleHoverColor": "rgba(255, 64, 128, 1)",
+        "borderHoverColor": "#682907"
+    },
+    "dagongren": {
+        "titleColor": "#0b1f0a",
+        "titleHoverColor": "rgba(255, 64, 128, 1)",
+        "borderHoverColor": "#0b1f0a"
     }
 }
