@@ -9,9 +9,14 @@
         "titleHoverColor": "rgba(255, 64, 128, 1)",
         "borderHoverColor": "#00a4cd"
     },
-    "“huangjidaxiao”": {
+    "huangjidaxiao": {
         "titleColor": "#280505",
         "titleHoverColor": "rgba(255, 64, 128, 1)",
         "borderHoverColor": "#280505"
+    },
+    "cat": {
+        "titleColor": "#884246",
+        "titleHoverColor": "rgba(255, 64, 128, 1)",
+        "borderHoverColor": "#884246"
     }
 }
