@@ -43,5 +43,10 @@
         "titleColor": "#382f2f",
         "titleHoverColor": "#382f2f",
         "borderHoverColor": "#382f2f"
+    },
+    "hongsansan": {
+        "titleColor": "#7a772b",
+        "titleHoverColor": "#7a772b",
+        "borderHoverColor": "#7a772b"
     }
 }
