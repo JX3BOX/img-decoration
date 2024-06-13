@@ -48,5 +48,10 @@
         "titleColor": "#7a772b",
         "titleHoverColor": "#7a772b",
         "borderHoverColor": "#7a772b"
+    },
+    "moyuyu": {
+        "titleColor": "#598fbc",
+        "titleHoverColor": "#598fbc",
+        "borderHoverColor": "#598fbc"
     }
 }
