@@ -53,5 +53,10 @@
         "titleColor": "#598fbc",
         "titleHoverColor": "#598fbc",
         "borderHoverColor": "#598fbc"
+    },
+    "qingliangxiari": {
+        "titleColor": "#1393af",
+        "titleHoverColor": "#1393af",
+        "borderHoverColor": "#1393af"
     }
 }
