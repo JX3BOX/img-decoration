@@ -4,7 +4,7 @@
 		"prefix": "第八届秘境百强榜",
 		"ranking": [],
 		"suffix": "团队成员",
-        "only": false,
+		"only": false,
 		"color": "#fff",
 		"ext": "png"
 	},
@@ -13,7 +13,7 @@
 		"prefix": "第七届秘境百强榜",
 		"ranking": [],
 		"suffix": "团队成员",
-        "only": false,
+		"only": false,
 		"color": "#fff",
 		"ext": "png"
 	},
@@ -25,7 +25,7 @@
 			[30, 9999, "第{ranking}号"]
 		],
 		"suffix": "妖秀",
-        "only": false,
+		"only": false,
 		"color": "#6a0021",
 		"ext": "png"
 	},
@@ -34,7 +34,7 @@
 		"prefix": "魔盒",
 		"ranking": [],
 		"suffix": "云端伪妖秀",
-        "only": false,
+		"only": false,
 		"color": "#6a0021",
 		"ext": "png"
 	},
@@ -43,7 +43,7 @@
 		"prefix": "魔盒",
 		"ranking": [],
 		"suffix": "云端真妖秀",
-        "only": false,
+		"only": false,
 		"color": "#6a0021",
 		"ext": "png"
 	},
@@ -52,7 +52,7 @@
 		"prefix": "魔盒",
 		"ranking": [],
 		"suffix": "万灵当歌数据大师",
-        "only": false,
+		"only": false,
 		"color": "#fff",
 		"ext": "png"
 	},

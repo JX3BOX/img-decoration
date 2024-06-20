@@ -1,62 +1,97 @@
 {
-    "heijin": {
-        "titleColor": "#987531",
-        "titleHoverColor": "#987531",
-        "borderHoverColor": "#987531"
-    },
-    "kuangshi": {
-        "titleColor": "#00a4cd",
-        "titleHoverColor": "#00a4cd",
-        "borderHoverColor": "#00a4cd"
-    },
-    "huangjidaxiao": {
-        "titleColor": "#280505",
-        "titleHoverColor": "#280505",
-        "borderHoverColor": "#280505"
-    },
-    "cat": {
-        "titleColor": "#884246",
-        "titleHoverColor": "#884246",
-        "borderHoverColor": "#884246"
-    },
-    "zhutou": {
-        "titleColor": "#682907",
-        "titleHoverColor": "#682907",
-        "borderHoverColor": "#682907"
-    },
-    "dagongren": {
-        "titleColor": "#0b1f0a",
-        "titleHoverColor": "#0b1f0a",
-        "borderHoverColor": "#0b1f0a"
-    },
-    "kfc": {
-        "titleColor": "#830000",
-        "titleHoverColor": "#830000",
-        "borderHoverColor": "#830000"
-    },
-    "lvdoubing": {
-        "titleColor": "#34713f",
-        "titleHoverColor": "#34713f",
-        "borderHoverColor": "#34713f"
-    },
-    "shenlu": {
-        "titleColor": "#382f2f",
-        "titleHoverColor": "#382f2f",
-        "borderHoverColor": "#382f2f"
-    },
-    "hongsansan": {
-        "titleColor": "#7a772b",
-        "titleHoverColor": "#7a772b",
-        "borderHoverColor": "#7a772b"
-    },
-    "moyuyu": {
-        "titleColor": "#598fbc",
-        "titleHoverColor": "#598fbc",
-        "borderHoverColor": "#598fbc"
-    },
-    "qingliangxiari": {
-        "titleColor": "#1393af",
-        "titleHoverColor": "#1393af",
-        "borderHoverColor": "#1393af"
-    }
+	"heijin": {
+		"titleColor": "#987531",
+		"titleHoverColor": "#987531",
+		"borderHoverColor": "#987531"
+	},
+	"kuangshi": {
+		"titleColor": "#00a4cd",
+		"titleHoverColor": "#00a4cd",
+		"borderHoverColor": "#00a4cd"
+	},
+	"huangjidaxiao": {
+		"titleColor": "#280505",
+		"titleHoverColor": "#280505",
+		"borderHoverColor": "#280505"
+	},
+	"cat": {
+		"titleColor": "#884246",
+		"titleHoverColor": "#884246",
+		"borderHoverColor": "#884246"
+	},
+	"zhutou": {
+		"titleColor": "#682907",
+		"titleHoverColor": "#682907",
+		"borderHoverColor": "#682907"
+	},
+	"dagongren": {
+		"titleColor": "#0b1f0a",
+		"titleHoverColor": "#0b1f0a",
+		"borderHoverColor": "#0b1f0a"
+	},
+	"kfc": {
+		"titleColor": "#830000",
+		"titleHoverColor": "#830000",
+		"borderHoverColor": "#830000"
+	},
+	"lvdoubing": {
+		"titleColor": "#34713f",
+		"titleHoverColor": "#34713f",
+		"borderHoverColor": "#34713f"
+	},
+	"shenlu": {
+		"titleColor": "#382f2f",
+		"titleHoverColor": "#382f2f",
+		"borderHoverColor": "#382f2f"
+	},
+	"hongsansan": {
+		"titleColor": "#7a772b",
+		"titleHoverColor": "#7a772b",
+		"borderHoverColor": "#7a772b"
+	},
+	"moyuyu": {
+		"titleColor": "#598fbc",
+		"titleHoverColor": "#598fbc",
+		"borderHoverColor": "#598fbc"
+	},
+	"qingliangxiari": {
+		"titleColor": "#1393af",
+		"titleHoverColor": "#1393af",
+		"borderHoverColor": "#1393af"
+	},
+	"purple": {
+		"titleColor": "#611e90",
+		"titleHoverColor": "#611e90",
+		"borderHoverColor": "#611e90"
+	},
+	"starfall": {
+		"titleColor": "#4a43a2",
+		"titleHoverColor": "#4a43a2",
+		"borderHoverColor": "#4a43a2"
+	},
+	"zhehenheli": {
+		"titleColor": "#8f5d5d",
+		"titleHoverColor": "#8f5d5d",
+		"borderHoverColor": "#8f5d5d"
+	},
+	"yixinweijian": {
+		"titleColor": "#8b774f",
+		"titleHoverColor": "#8b774f",
+		"borderHoverColor": "#8b774f"
+	},
+	"chigua": {
+		"titleColor": "#000",
+		"titleHoverColor": "#000",
+		"borderHoverColor": "#000"
+	},
+	"shanyaodexing": {
+		"titleColor": "#4e6e9e",
+		"titleHoverColor": "#4e6e9e",
+		"borderHoverColor": "#ff7b7d"
+	},
+	"meiguiqingshi": {
+		"titleColor": "#3a538c",
+		"titleHoverColor": "#3a538c",
+		"borderHoverColor": "#3a538c"
+	}
 }
