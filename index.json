@@ -196,4 +196,18 @@
 		"homebg_rb": 1,
 		"status": 1
 	}
+	"chengxia_vip202406": {
+		"name": "chengxia_vip202406",
+		"desc": "橙夏流光",
+		"textcolor": "#000000",
+		"buttoncolor": "#b93304",
+		"buttontextcolor": "#000000",
+		"highlightcolor": "#000000",
+		"avatar": 0,
+		"homebg_lt": 0,
+		"homebg_lb": 0,
+		"homebg_rt": 0,
+		"homebg_rb": 1,
+		"status": 1
+	}
 }
