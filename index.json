@@ -224,4 +224,19 @@
 		"homebg_rb": 1,
 		"status": 1
 	}
+	,
+	"VIP202407": {
+		"name": "VIP202408",
+		"desc": "月影中秋",
+		"textcolor": "#000000",
+		"buttoncolor": "#d2b55d",
+		"buttontextcolor": "#000000",
+		"highlightcolor": "#000000",
+		"avatar": 0,
+		"homebg_lt": 0,
+		"homebg_lb": 0,
+		"homebg_rt": 0,
+		"homebg_rb": 1,
+		"status": 1
+	}
 }
