@@ -98,5 +98,10 @@
 		"titleColor": "#378e78",
 		"titleHoverColor": "#378e78",
 		"borderHoverColor": "#378e78"
+	},
+	"vip202408": {
+		"titleColor": "#d2b55d",
+		"titleHoverColor": "#d2b55d",
+		"borderHoverColor": "#d2b55d"
 	}
 }
