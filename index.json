@@ -239,4 +239,19 @@
 		"homebg_rb": 1,
 		"status": 1
 	}
+	,
+	"VIP202409": {
+		"name": "VIP202409",
+		"desc": "柿柿如意",
+		"textcolor": "#ffffff",
+		"buttoncolor": "#000000",
+		"buttontextcolor": "#b93304",
+		"highlightcolor": "#000000",
+		"avatar": 0,
+		"homebg_lt": 0,
+		"homebg_lb": 0,
+		"homebg_rt": 0,
+		"homebg_rb": 1,
+		"status": 1
+	}
 }

@@ -103,5 +103,10 @@
 		"titleColor": "#404040",
 		"titleHoverColor": "#ff9b2f",
 		"borderHoverColor": "#ff9b2f"
+	},
+"shishiruyi": {
+        "titleColor": "#a1827a",
+        "titleHoverColor": "#ffc338",
+        "borderHoverColor": "#a1827a"
 	}
 }
