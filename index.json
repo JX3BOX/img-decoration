@@ -133,6 +133,8 @@
 		"buttoncolor": "#81B3FD",
 		"buttontextcolor": "#FFFFFF",
 		"highlightcolor": "#AD97CB",
+		"miniprogrambgcolor": "#000000",
+		"phonebanner": "phonebanner.png", 
 		"avatar": 1,
 		"homebg_lt": 1,
 		"homebg_lb": 1,
