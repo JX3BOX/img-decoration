@@ -305,22 +305,22 @@
 		"homebg_rt": 0,
 		"homebg_rb": 1,
 		"status": 1
+	},
+	"rank_9": {
+		"name": "rank_9",
+		"desc": "第九届·秘境百强榜",
+		"textcolor": "#3f5053",
+		"buttoncolor": "#FFFFFF",
+		"buttontextcolor": "#FFFFFF",
+		"highlightcolor": "#000000",
+		"miniprogrambgcolor": "#000000",
+		"phonebanner": "phonebanner.png", 
+		"avatar": 0,
+		"homebg_lt": 0,
+		"homebg_lb": 0,
+		"homebg_rt": 0,
+		"homebg_rb": 1,
+		"status": 1
 	}
-},
-"rank_9": {
-	"name": "rank_9",
-	"desc": "第九届·秘境百强榜",
-	"textcolor": "#3f5053",
-	"buttoncolor": "#FFFFFF",
-	"buttontextcolor": "#FFFFFF",
-	"highlightcolor": "#000000",
-	"miniprogrambgcolor": "#000000",
-	"phonebanner": "phonebanner.png", 
-	"avatar": 0,
-	"homebg_lt": 0,
-	"homebg_lb": 0,
-	"homebg_rt": 0,
-	"homebg_rb": 1,
-	"status": 1
 }
 
