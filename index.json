@@ -321,6 +321,22 @@
 		"homebg_rt": 0,
 		"homebg_rb": 1,
 		"status": 1
+	},
+	"qxdz": {
+		"name": "qxdz",
+		"desc": "七秀弟子",
+		"textcolor": "#FFFFFF",
+		"buttoncolor": "#FFFFFF",
+		"buttontextcolor": "#FFFFFF",
+		"highlightcolor": "#000000",
+		"miniprogrambgcolor": "#000000",
+		"phonebanner": "phonebanner.png", 
+		"avatar": 0,
+		"homebg_lt": 0,
+		"homebg_lb": 0,
+		"homebg_rt": 0,
+		"homebg_rb": 1,
+		"status": 1
 	}
 }
 
