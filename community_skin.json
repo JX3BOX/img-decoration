@@ -104,9 +104,14 @@
 		"titleHoverColor": "#ff9b2f",
 		"borderHoverColor": "#ff9b2f"
 	},
-"shishiruyi": {
-        "titleColor": "#a1827a",
-        "titleHoverColor": "#ffc338",
-        "borderHoverColor": "#a1827a"
+	"shishiruyi": {
+		"titleColor": "#a1827a",
+		"titleHoverColor": "#ffc338",
+		"borderHoverColor": "#a1827a"
+	},
+	"vip202412": {
+		"titleColor": "#452b12",
+		"titleHoverColor": "#452b12",
+		"borderHoverColor": "#452b12"
 	}
 }
