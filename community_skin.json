@@ -113,5 +113,10 @@
 		"titleColor": "#452b12",
 		"titleHoverColor": "#452b12",
 		"borderHoverColor": "#452b12"
+	},
+	"birthday_5": {
+		"titleColor": "#452b12",
+		"titleHoverColor": "#452b12",
+		"borderHoverColor": "#452b12"
 	}
 }
