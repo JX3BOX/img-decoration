@@ -64,5 +64,32 @@
 		"only": true,
 		"color": "#fff",
 		"ext": "png"
-	}
+	},
+    "2025fengyuelu3":{
+        "year": 2025,
+        "prefix": "",
+        "ranking": [],
+        "suffix": "风月作酒 · 梅",
+        "only": true,
+        "color": "#783800",
+        "ext": "png"
+    },
+    "2025fengyuelu2":{
+        "year": 2025,
+        "prefix": "",
+        "ranking": [],
+        "suffix": "风月入诗 · 梅",
+        "only": true,
+        "color": "#783800",
+        "ext": "png"
+    },
+    "2025fengyuelu1":{
+        "year": 2025,
+        "prefix": "",
+        "ranking": [],
+        "suffix": "风月入画 · 梅",
+        "only": true,
+        "color": "#783800",
+        "ext": "png"
+    }
 }
